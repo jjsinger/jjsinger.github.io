@@ -1,7 +1,7 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          Joshua Singer's Portfolio
+bio:            'Class of 2018'
+description:    "Applied Statistics student at BYU"
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://jjsinger.github.io
