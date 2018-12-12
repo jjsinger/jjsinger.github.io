@@ -1,7 +1,7 @@
 # Site
-title:          Josh Singer's Portfolio
+title:          StatSing
 bio:            'ENTER A BIO HERE'
-description:    "Applied Statistics student at BYU"
+description:    "A piece of the pipeline"
 picture:        'assets/img/neural_net.png'
 locale:         en_US
 url:            https://jjsinger.github.io
