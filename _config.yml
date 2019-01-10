@@ -20,7 +20,8 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
-
+# Google Analytics
+google_analytics: UA-132229812-1
 # Social
 # if you don't have any of social below, comment the line.
 #email:
