@@ -1,14 +1,24 @@
 ---
+layout: post
 title: "Viewership_Temporal_Correlation_Model"
 author: "Joshua Singer"
 date: "March 11, 2019"
 output:
-  html_document: default
   pdf_document: default
   word_document: default
+<<<<<<< HEAD
   md_document:
     variant: markdown_github
+=======
+  html_document: default
+tag:
+  - markdown
+  - syntax
+  - sample
+  
+>>>>>>> cf6964dcd96dd8e31d46fc1485276985cdaf114d
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)

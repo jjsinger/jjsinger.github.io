@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-- title: Blog
-  url: /blog/
+- title: Posts
+  url: /posts/index.md
 
 - title: Projects
-  url: /projects/
+  url: /projects/index.md
 
 - title: About
   url: /about/
