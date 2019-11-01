@@ -3,8 +3,8 @@ title: "Viewership_Temporal_Correlation_Model"
 author: "Joshua Singer"
 date: "March 11, 2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 ---
 
