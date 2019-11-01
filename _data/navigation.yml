@@ -4,10 +4,10 @@
   url: /
 
 - title: Blog
-  url: /blog/
+  url: /blog/index.md
 
 - title: Projects
-  url: /projects/
+  url: /projects/index.md
 
 - title: About
   url: /about/
