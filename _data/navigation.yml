@@ -4,7 +4,7 @@
   url: /
 
 - title: Blog
-  url: /blog/index.md
+  url: /posts/index.md
 
 - title: Projects
   url: /projects/index.md
