@@ -8,7 +8,7 @@ url:            https://jjsinger.github.io
 
 
 # Jekyll
-permalink:      /posts/ #/:title/
+permalink:      /:title/
 markdown:       kramdown
 highlighter:    rouge
 kramdown:
