@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Viewership Model"
+date:   11/8/2019
+excerpt: "Viewership Time Series Model"
+tag:
+- markdown
+- syntax
+- sample
+- test
+- jekyll
+---
+
 ``` r
 library(nlme)
 library(tidyverse)
